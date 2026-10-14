@@ -1,0 +1,23 @@
+﻿id;facultad_esperada;facultad_sistema;carrera_esperada;sugerencias_sistema;coincide_1ra;entre_las_3;reglas_disparadas;avisos
+S03;Ingeniería;Ingeniería;IngSistemas;IngSistemas | IngCivil;Sí;Sí;29;
+S06;Humanidades y Derecho;Humanidades y Derecho;EdInicial;EdInicial | EdPrimaria;Sí;Sí;26;
+S11;Medicina;Medicina;MedicinaHumana;MedicinaHumana | Enfermeria;Sí;Sí;27;
+S14;Medicina;Medicina;Psicologia;Psicologia | Enfermeria;Sí;Sí;27;
+S16;Ciencias Empresariales;Ciencias Empresariales;AdmHoteleraTurismo;AdmHoteleraTurismo;Sí;Sí;26;
+S20;Ingeniería;Ingeniería;IngMecElectrica;IngMecElectrica | IngCivil;Sí;Sí;31;Tu perfil incluye interés en defensa y seguridad (carreras militares o policiales), que la USAT no ofrece. Usamos tu siguiente área más alta. | Te interesa mucho tu área principal, pero dijiste tener poca habilidad en ella. Conviene reforzarla antes de decidir.
+S01;Ingeniería;Ingeniería;Arquitectura;Arquitectura | IngCivil;Sí;Sí;29;
+S02;Ingeniería;Ingeniería;IngCivil;IngCivil | IngIndustrial | IngMecElectrica;Sí;Sí;27;
+S04;Ingeniería;Ingeniería;IngIndustrial;IngIndustrial | IngSistemas;Sí;Sí;28;
+S05;Ingeniería;Ingeniería;IngMecElectrica;IngMecElectrica | IngCivil;Sí;Sí;29;
+S07;Humanidades y Derecho;Humanidades y Derecho;EdPrimaria;EdPrimaria | EdInicial;Sí;Sí;27;
+S08;Humanidades y Derecho;Humanidades y Derecho;EdSecFilosofiaTeologia;EdSecFilosofiaTeologia | EdPrimaria;Sí;Sí;26;
+S09;Humanidades y Derecho;Humanidades y Derecho;Comunicacion;Comunicacion;Sí;Sí;27;
+S10;Humanidades y Derecho;Humanidades y Derecho;Derecho;Derecho | EdSecFilosofiaTeologia;Sí;Sí;27;
+S12;Medicina;Medicina;Enfermeria;Enfermeria;Sí;Sí;26;
+S13;Medicina;Medicina;Odontologia;Odontologia | Enfermeria;Sí;Sí;26;
+S15;Ciencias Empresariales;Ciencias Empresariales;Administracion;Administracion | Economia;Sí;Sí;27;
+S17;Ciencias Empresariales;Ciencias Empresariales;Economia;Economia | Contabilidad;Sí;Sí;28;
+S18;Ciencias Empresariales;Ciencias Empresariales;Contabilidad;Contabilidad | Economia;Sí;Sí;26;
+S19;indefinido;indefinido;indefinido;ninguna;Sí;Sí;18;Tus respuestas todavía no muestran una preferencia clara por ninguna área. Te recomendamos conversar con un orientador vocacional.
+D01;Medicina;Humanidades y Derecho;Psicologia;Derecho | EdSecFilosofiaTeologia;No;No;26;
+D02;Humanidades y Derecho;Humanidades y Derecho;Comunicacion;Comunicacion;Sí;Sí;26;

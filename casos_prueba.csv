@@ -1,0 +1,23 @@
+id;tipo;p1;p2;p3;p4;p5;p6;p7;p8;p9;p10;p11;p12;p13;p14;p15;p16;p17;p18;p19;p20;facultad_esperada;carrera_esperada
+S03;típico;0;0;0;0;0;1;0;0;2;2;0;1;2;0;0;1;2;0;0;0;Ingeniería;IngSistemas
+S06;típico;0;1;2;1;1;0;0;2;0;0;0;0;0;0;2;1;0;0;0;1;Humanidades y Derecho;EdInicial
+S11;típico;0;0;0;1;0;0;2;2;1;0;0;1;1;1;2;2;1;0;1;0;Medicina;MedicinaHumana
+S14;típico;0;0;1;1;0;1;1;2;0;0;0;0;0;1;0;0;1;0;2;2;Medicina;Psicologia
+S16;típico;2;1;2;0;1;0;0;0;0;0;0;0;0;0;1;0;2;2;0;0;Ciencias Empresariales;AdmHoteleraTurismo
+S20;límite;0;0;0;0;0;0;0;1;2;0;2;2;0;0;0;1;0;0;2;1;Ingeniería;IngMecElectrica
+S01;típico;0;0;0;1;2;2;0;0;2;0;0;0;0;1;2;1;0;0;0;1;Ingeniería;Arquitectura
+S02;típico;0;1;0;0;1;0;0;0;2;1;0;1;1;0;0;2;0;1;0;2;Ingeniería;IngCivil
+S04;típico;1;1;0;0;0;0;0;1;2;2;0;0;0;1;0;0;1;2;0;0;Ingeniería;IngIndustrial
+S05;típico;0;0;0;0;0;1;0;0;2;2;1;0;2;0;0;1;0;0;2;2;Ingeniería;IngMecElectrica
+S07;típico;0;1;2;2;1;0;1;0;0;0;0;0;0;1;1;2;0;0;0;1;Humanidades y Derecho;EdPrimaria
+S08;típico;0;0;2;1;0;1;0;1;0;0;0;0;1;0;0;1;2;0;0;0;Humanidades y Derecho;EdSecFilosofiaTeologia
+S09;típico;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;2;1;0;Humanidades y Derecho;Comunicacion
+S10;típico;1;1;2;2;0;0;0;0;0;0;0;1;0;1;0;0;1;0;2;2;Humanidades y Derecho;Derecho
+S12;típico;0;0;1;0;0;0;2;2;0;1;0;1;0;0;1;0;2;0;1;0;Medicina;Enfermeria
+S13;típico;0;1;0;0;0;1;2;1;1;0;0;0;0;0;1;0;1;2;0;0;Medicina;Odontologia
+S15;típico;2;2;1;0;0;0;0;0;0;0;0;1;0;1;2;2;0;1;1;0;Ciencias Empresariales;Administracion
+S17;típico;1;1;0;0;0;0;0;0;1;0;0;0;2;2;0;1;0;0;2;1;Ciencias Empresariales;Economia
+S18;típico;1;2;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;1;2;Ciencias Empresariales;Contabilidad
+S19;límite;1;0;0;1;0;0;1;0;0;0;0;1;0;0;;;;;;;indefinido;indefinido
+D01;difícil;0;0;2;1;0;1;0;2;0;0;0;0;1;0;0;0;1;0;2;2;Medicina;Psicologia
+D02;difícil;0;0;1;2;2;1;0;0;1;0;0;0;0;0;0;0;0;2;1;0;Humanidades y Derecho;Comunicacion
